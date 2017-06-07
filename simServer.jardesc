@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="WINDOWS-1252" standalone="no"?>
+<jardesc>
+    <jar path="C:/developement/bgu/EngProject/Simulation3/RunSimServer/simServer.jar"/>
+    <options buildIfNeeded="true" compress="true" descriptionLocation="/Algorithms/simServer.jardesc" exportErrors="true" exportWarnings="true" includeDirectoryEntries="false" overwrite="true" saveDescription="true" storeRefactorings="false" useSourceFolders="false"/>
+    <storedRefactorings deprecationInfo="true" structuralOnly="false"/>
+    <selectedProjects/>
+    <manifest generateManifest="false" manifestLocation="/Algorithms/simServer.manifest" manifestVersion="1.0" reuseManifest="true" saveManifest="true" usesManifest="true">
+        <sealing sealJar="true">
+            <packagesToSeal/>
+            <packagesToUnSeal/>
+        </sealing>
+    </manifest>
+    <selectedElements exportClassFiles="true" exportJavaFiles="false" exportOutputFolder="false">
+        <javaElement handleIdentifier="=Algorithms/src&lt;algorithms.centralityAlgorithms.betweenness.decorators"/>
+        <javaElement handleIdentifier="=Algorithms/src&lt;algorithms.centralityAlgorithms.betweenness.brandes.utils"/>
+        <javaElement handleIdentifier="=Algorithms/src&lt;algorithms.bcc"/>
+        <javaElement handleIdentifier="=Algorithms/src&lt;algorithms.dfbnb.elementOrder"/>
+        <javaElement handleIdentifier="=Algorithms/src&lt;algorithms.centralityAlgorithms.betweenness"/>
+        <javaElement handleIdentifier="=Algorithms/src&lt;server.dfbnb"/>
+        <javaElement handleIdentifier="=Algorithms/src&lt;algorithms.centralityAlgorithms.betweenness.brandes"/>
+        <javaElement handleIdentifier="=Algorithms/src&lt;server.shortestPathBetweenness"/>
+        <file path="/Algorithms/simServer.manifest"/>
+        <javaElement handleIdentifier="=Algorithms/src&lt;algorithms.dfbnb"/>
+        <javaElement handleIdentifier="=Algorithms/src&lt;server.closeness.executions"/>
+        <file path="/Algorithms/.classpath"/>
+        <javaElement handleIdentifier="=Algorithms/src&lt;algorithms.centralityAlgorithms.randomWalkBetweeness"/>
+        <javaElement handleIdentifier="=Algorithms/src&lt;algorithms.centralityAlgorithms.degree"/>
+        <file path="/Algorithms/serverProps.xml"/>
+        <file path="/Algorithms/run.cmd"/>
+        <javaElement handleIdentifier="=Algorithms/src&lt;topology.graphParsers.common"/>
+        <javaElement handleIdentifier="=Algorithms/src&lt;algorithms.centralityAlgorithms.closeness"/>
+        <javaElement handleIdentifier="=Algorithms/src&lt;server.rbc.Rational"/>
+        <javaElement handleIdentifier="=Algorithms/src&lt;algorithms.dfbnb.samples"/>
+        <javaElement handleIdentifier="=Algorithms/src&lt;server.structuralEquivalence.executions"/>
+        <javaElement handleIdentifier="=Algorithms/src&lt;algorithms.shortestPath"/>
+        <javaElement handleIdentifier="=Algorithms/src&lt;server.degree"/>
+        <javaElement handleIdentifier="=Algorithms/src&lt;algorithms.centralityAlgorithms.betweenness.bcc"/>
+        <javaElement handleIdentifier="=Algorithms/src&lt;server.network"/>
+        <javaElement handleIdentifier="=Algorithms/src&lt;algorithms"/>
+        <javaElement handleIdentifier="=Algorithms/src&lt;server"/>
+        <folder path="/Algorithms/lib"/>
+        <javaElement handleIdentifier="=Algorithms/src&lt;algorithms.dfbnb.openList"/>
+        <javaElement handleIdentifier="=Algorithms/src&lt;topology.graphParsers"/>
+        <javaElement handleIdentifier="=Algorithms/src&lt;server.degree.executions"/>
+        <javaElement handleIdentifier="=Algorithms/src&lt;server.randomWalkBetweenness.executions"/>
+        <javaElement handleIdentifier="=Algorithms/src&lt;server.network.executions"/>
+        <folder path="/Algorithms/logs"/>
+        <javaElement handleIdentifier="=Algorithms/src&lt;server.trafficMatrix"/>
+        <javaElement handleIdentifier="=Algorithms/src&lt;server.rbc"/>
+        <javaElement handleIdentifier="=Algorithms/src&lt;common"/>
+        <javaElement handleIdentifier="=Algorithms/src&lt;algorithms.centralityAlgorithms.rbcRational"/>
+        <javaElement handleIdentifier="=Algorithms/src&lt;algorithms.centralityAlgorithms.rbc"/>
+        <file path="/Algorithms/simServer.jardesc"/>
+        <javaElement handleIdentifier="=Algorithms/src&lt;algorithms.dfbnb.heuristics"/>
+        <javaElement handleIdentifier="=Algorithms/src&lt;algorithms.centralityAlgorithms"/>
+        <javaElement handleIdentifier="=Algorithms/src&lt;server.shortestPathBetweenness.executions"/>
+        <javaElement handleIdentifier="=Algorithms/src&lt;server.structuralEquivalence"/>
+        <javaElement handleIdentifier="=Algorithms/src&lt;algorithms.centralityAlgorithms.betweenness.brandes.preprocessing"/>
+        <javaElement handleIdentifier="=Algorithms/src&lt;algorithms.structuralEquivalence"/>
+        <javaElement handleIdentifier="=Algorithms/src&lt;topology"/>
+        <javaElement handleIdentifier="=Algorithms/src&lt;server.execution"/>
+        <javaElement handleIdentifier="=Algorithms/src&lt;server.common"/>
+        <folder path="/Algorithms/data"/>
+        <file path="/Algorithms/.project"/>
+        <javaElement handleIdentifier="=Algorithms/src&lt;algorithms.dfbnb.searchOrder"/>
+        <javaElement handleIdentifier="=Algorithms/src&lt;server.randomWalkBetweenness"/>
+        <javaElement handleIdentifier="=Algorithms/src&lt;server.closeness"/>
+    </selectedElements>
+</jardesc>

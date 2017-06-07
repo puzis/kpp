@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="org.eclipse.jdt.launching.localJavaApplication">
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
+<listEntry value="/Algorithms/src/server/AlgorithmsServer.java"/>
+</listAttribute>
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
+<listEntry value="1"/>
+</listAttribute>
+<stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="server.AlgorithmsServer"/>
+<stringAttribute key="org.eclipse.jdt.launching.PROGRAM_ARGUMENTS" value="-Ddata.dir=data/"/>
+<stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="Algorithms"/>
+<stringAttribute key="org.eclipse.jdt.launching.VM_ARGUMENTS" value="-ms1g&#13;&#10;-mx1g&#13;&#10;-Ddata.dir=data/"/>
+</launchConfiguration>
