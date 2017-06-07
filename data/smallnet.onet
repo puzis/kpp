@@ -1,0 +1,22 @@
+*Vertices      10
+1 "LSR"
+2 "LER"
+3 "Access"
+4 "Access"
+5 "Access"
+6 "LSR"
+7 "LER"
+8 "Access"
+9 "Access"
+10 "Access"
+*Arcs
+1 6 1 
+1 2 1 
+2 3 1 
+2 4 1 
+2 5 1 
+6 7 1 
+7 8 1 
+7 9 1 
+7 10 1
+*Edges
